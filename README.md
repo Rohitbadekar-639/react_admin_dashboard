@@ -12,3 +12,6 @@ A fully responsive, customizable React Admin Dashboard featuring theming, dynami
 - **Calendar Integration:** Full calendar with event management (add, edit, delete events)
 - **Kanban Board:** Drag-and-drop task management system
 - **Responsive Design:** Optimized for mobile, tablet, and desktop devices
+
+## Live Demo - 
+https://dashboard-two-fawn-42.vercel.app/
